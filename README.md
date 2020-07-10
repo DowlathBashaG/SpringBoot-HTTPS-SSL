@@ -6,7 +6,7 @@
 
 ![gener_cert](https://user-images.githubusercontent.com/9671419/87206100-a3a69b80-c326-11ea-872b-6dd4adfd1428.PNG)
 
-## application.property [ Over ride server port with 8443 ]
+## application.property [ Override server port with 8443 ]
 
 server.port=8443
 
